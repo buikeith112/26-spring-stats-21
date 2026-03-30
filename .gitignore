@@ -1,0 +1,31 @@
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Python & Environments
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment folders
+.venv/
+venv/
+env/
+
+# =========================
+# OS Generated Files
+# =========================
+# Mac
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
